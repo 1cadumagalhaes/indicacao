@@ -1,0 +1,1 @@
+Essa página é uma forma de conseguir usar um subdomínio customizado em um google forms. É somente um form embedado, e com o mapeamento do subdomínio ligado.
